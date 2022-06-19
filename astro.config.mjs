@@ -8,5 +8,5 @@ import svelte from "@astrojs/svelte";
 export default defineConfig({
   integrations: [// Enable Preact to support Preact JSX components.
   preact(), // Enable React for the Algolia search component.
-  react(), svelte()]
+  react()]
 });

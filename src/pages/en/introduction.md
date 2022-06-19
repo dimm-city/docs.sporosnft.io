@@ -1,12 +1,13 @@
 ---
 title: Introduction
-description: Docs intro
+description: Introduction to the Sporos NFT project
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Astro!**
+**Welcome to the Sporos NFT docs!**
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+The Sporos NFT project is focused around character development  and storytelling. We hope to facilitate creating friendships, strengthening bonds, and the opportunity for personal growth through gameplay and interactive fiction. 
+
 
 - ✅ **Full Markdown support**
 - ✅ **Responsive mobile-friendly design**
