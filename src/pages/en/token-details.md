@@ -1,37 +1,52 @@
 ---
-title: Page 3
+title: Token Details
 description: Lorem ipsum dolor sit amet - 3
 layout: ../../layouts/MainLayout.astro
 ---
 
 This is a fully-featured page, written in Markdown!
 
-## Section A
+## Sporos Characters (AVAX)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Sporo character tokens have these features:
+    - Randomly generated character
+    - Access to exclusive content
+    - Stories, cinematic shorts
+    - Future to some game expansions
+    - Discounts on other content?
+    - Voting for content direction/creation
+    - Snapshot voting?
+    - Ability to submit character journals to be included in the console
+    - Expansion of this is a high priority to the project
+    - Content Airdrops
+    - Vrumble sponsored affiliated benefits: 50% of Rift Sparkle price to anoint your nft in Vrumble will be rebated back to holders in Vrumble's native token $suji.
+    - Future Rift Sparkle competitions and Giveaways.
+    - POAPs / Rewards for participation in live game sessions and other events
+    - Free DCC subscription as long as you hold a Sporo
 
-## Section B
+## Dream Master Passes (ETH)
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+- Standard Dream Master Pass image for the release
+    - *Passes may have minor variations*
+- Host game session
+- Ability to submit content to be included in the console, free version of marketplace
+- Articles, images, audio
+- Game session journals
+- Expansion of this is a high priority to the project
+- Publish adventure content
+- Eventual marketplace contract and UI
+- Royalties go to DM pass holders wallet
+- Transferable IP
+- Unlockable content
+- Holders of game content passes can use maps, images, and other media that is only accessible by content pass holders
+- Free AVAX Sporo copy of OG Sporo
+- 1x Free credit for each of the next two releases on AVAX
+- Free access to the DCRPG game book and core game content, paperback
+- Creator tools Access as they are developed and released
 
-## Section C
+## Lucid Dream Master Passes (ETH)
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
-
-# Markdown example
-
-This is a fully-featured page, written in Markdown!
-
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+- Characters in content
+- Hardback copy of the Dimm City RPG book
+- Rift sparkle (*while supplies last)
+- Signed print of the image on the token

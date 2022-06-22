@@ -34,16 +34,14 @@ export const GITHUB_EDIT_URL = `https://github.com/dimm-city/docs.sporosnft.io/`
 
 export const SIDEBAR = {
 	en: [
-		{ text: '', header: true },
-		{ text: 'Section Header', header: true },
+		{ text: 'Sporos NFT Project', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
-		{ text: 'Sporos Lore', link: 'en/sporos-lore' },
 		{ text: 'How we help creators', link: 'en/creators' },
 		{ text: 'How we help communities', link: 'en/communities' },
-		{ text: 'Token Details', link: 'en/token-details' },
-		{ text: 'Benefits of Token Ownership', link: 'en/token-benefits' },
-		{ text: 'Blockchain Details', link: 'en/blockchain' },
 		{ text: 'Release Info', link: 'en/releases' },
+		{ text: 'Token Details', link: 'en/token-details' },
+		{ text: 'Blockchain Details', link: 'en/blockchain' },
+		{ text: 'Roadmap', link: 'en/roadmap' },
 		{ text: 'Dimm City TTRPG', header: true },
 		{ text: 'What is it?', link: 'en/dimm-city-rpg' },
 	],
