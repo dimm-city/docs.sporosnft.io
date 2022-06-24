@@ -38,6 +38,7 @@ export const SIDEBAR = {
 		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'How we help creators', link: 'en/creators' },
 		{ text: 'How we help communities', link: 'en/communities' },
+		{ text: 'Dimm City Console', link: 'en/dimm-city-console' },
 		{ text: 'Release Info', link: 'en/releases' },
 		{ text: 'Token Details', link: 'en/token-details' },
 		{ text: 'Blockchain Details', link: 'en/blockchain' },

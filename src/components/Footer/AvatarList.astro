@@ -1,8 +1,8 @@
 ---
 // fetch all commits for just this page's path
-const path = 'docs/' + Astro.props.path;
-const url = `https://api.github.com/repos/withastro/astro/commits?path=${path}`;
-const commitsURL = `https://github.com/withastro/astro/commits/main/${path}`;
+const path =  Astro.props.path;
+const url = `https://api.github.com/repos/dimm-city/docs.sporosnft.io/commits?path=${path}`;
+const commitsURL = `https://github.com/dimm-city/docs.sporosnft.io/commits/main/src/pages${path}.md`;
 
 async function getCommits(url) {
 	try {
@@ -75,7 +75,7 @@ const additionalContributors = unique.length - recentContributors.length; // lis
 			<a href={commitsURL}>{`and ${additionalContributors} additional contributor${additionalContributors > 1 ? 's' : ''}.`}</a>
 		</span>
 	)}
-	{unique.length === 0 && <a href={commitsURL}>Contributors</a>}
+	{unique.length === 0 && <a href={commitsURL} target="_blank">Contributors</a>}
 </div>
 
 <style>
