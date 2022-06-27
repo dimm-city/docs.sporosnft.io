@@ -15,12 +15,12 @@ Sporo character tokens have these features:
     - Future to some game expansions
     - Discounts on other content?
     - Voting for content direction/creation
-    - Snapshot voting?
+    - Snapshot voting
     - Ability to submit character journals to be included in the console
     - Expansion of this is a high priority to the project
     - Content Airdrops
     - Vrumble sponsored affiliated benefits: 50% of Rift Sparkle price to anoint your nft in Vrumble will be rebated back to holders in Vrumble's native token $suji.
-    - Future Rift Sparkle competitions and Giveaways.
+    - Future Rift Sparkle competitions and giveaways
     - POAPs / Rewards for participation in live game sessions and other events
     - Free DCC subscription as long as you hold a Sporo
 

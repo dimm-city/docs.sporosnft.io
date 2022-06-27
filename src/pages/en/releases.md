@@ -25,3 +25,10 @@ Use the "oracle" image on passes?
 Random characters with varying rarity 
 
  
+
+
+## Gen0 Migration
+
+- Minting now, what happens next?
+- Only applies to Gen0 release
+- Release pattern outlined above will be followed going forward

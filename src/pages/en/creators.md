@@ -1,20 +1,35 @@
 ---
-title: Page 3
-description: Lorem ipsum dolor sit amet - 3
+title: How we help creators
+description: Sporos NFT is focused on helping independent artists create and share content
 layout: ../../layouts/MainLayout.astro
 ---
 
 This is a fully-featured page, written in Markdown!
 
-## Section A
+## Decentralized Content Management System
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Features included:
 
-## Section B
+a licensing model that allows two entry points for content creators. the "sporo" level that allows for basic content creation in the form of journal entries. all journal entries are published under CC-BY.  the "dream master" level that allows for expanded content creation in the form of "stories." these are advanced journal entries that can be licensed as the creator decides.
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+the system can manage content of multiple type not just simple text entries. for example, content can be entire html site, a single video or audio file, or maybe even a web based mini game.
 
-## Section C
+pre-built world with contextual content, lore, and media assets available for creators to use in their content under the CC-BY license
+
+a full TTRPG game built around the world and the lore that can easily use a content from the site
+
+a community of creators, RPG players, and fans of the world that creates a market for both commercial and non-commercial creations
+
+possible character / content integration with other systems outside of dimm city
+
+## Audience and Ecosystem
+
+
+## Open Collaboration
+
+Shared content
+
+## Creative Commons
 
 ```markdown
 ---
@@ -23,15 +38,9 @@ lang: en
 layout: ~/layouts/MainLayout.astro
 ---
 
-# Markdown example
+## Marketplace and Royalities
 
 This is a fully-featured page, written in Markdown!
 
-## Section A
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+## Creator Workshops

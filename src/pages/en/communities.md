@@ -1,37 +1,42 @@
 ---
-title: Page 4
-description: Lorem ipsum dolor sit amet - 4
+title: How we help communities
+description: Here are some ways that our project help build and strengthen communities
 layout: ../../layouts/MainLayout.astro
 ---
 
-This is a fully-featured page, written in Markdown!
+Our project was born out of lifelong friendships. So, helping to create those type of connections is one of our top priorities. We are passionate about fostering friendships through creativity and game play. The project currently focuses on two primary ways to enable game play. In the near team, we will be encouraging our community to become active in Vrumble. While we are busy dominating those leader boards, we are also hard at work finishing up our custom tools to facilitate using your Sporo to play RPG adventures. 
 
-## Section A
+ 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+To help foster creativity we are building a platform to allow creators to collaborate and publish content relating to their Sporos. Initially this will be through the ability to customize your Sporos by giving them a name, personality and even backstory. From there we will begin to enable additional features to allow further customization of your characters and even contribute to the Sporo's lore! 
 
-## Section B
+ 
+## Connections
+Online communities connections to expand social networks
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+## Game play
 
-## Section C
+Using game play and creativity to foster connections between people 
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+In person with TTRPG 
 
-# Markdown example
+Online with DCC and Vrumble 
 
-This is a fully-featured page, written in Markdown!
+## Collaboration
+ 
 
-## Section A
+Focus on creativity and supporting creators 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Empowering others to start creating 
 
-## Section B
+Empower current creators by providing a platform and sponsorships 
+ 
+## The one community
+ 
+Supporting mental health and Alzheimer's initiatives 
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+Environmental impact 
+
+Decentralization 
+
+Fair play/market, no pay to win 
